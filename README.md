@@ -8,7 +8,3 @@ As in the original post, two training methods are used. One is to train all the 
 
 <img src="results/resnet18_1.png" align="left" width="410" />
 <img src="results/resnet18_0.png" align="left" width="410" />
-
-
-
-## Results with different base network
